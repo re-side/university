@@ -1,0 +1,114 @@
+Start word | Translate | Number of Mentions
+я | I | 10
+ты | You | 8
+в | V | 6
+тоже | Same | 3
+да, | yes, | 3
+привет, | Hello, | 2
+как | How | 2
+всё | All | 2
+а | A | 2
+у | in | 2
+так | So | 2
+звучать | sound | 2
+особенно | especially | 2
+что-то | something | 2
+она | she | 2
+называться | be called | 2
+сергей! | Sergey! | 1
+дела? | works? | 1
+анна! | Anna! | 1
+хорошо, | Fine, | 1
+спасибо. | Thank you. | 1
+как? | How? | 1
+порядке. | in order. | 1
+только | only | 1
+что | What | 1
+вернуться | come back | 1
+с | with | 1
+прогулка | walk | 1
+парке. | in the park. | 1
+там | there | 1
+красиво | Beautiful | 1
+весной! | in the spring! | 1
+замечательно! | Amazing! | 1
+любить | loves | 1
+гулять | walk | 1
+парке, | in the park, | 1
+когда | When | 1
+цвести | blossom | 1
+деревья. | trees. | 1
+вишни. | cherries. | 1
+когда-нибудь | some day | 1
+пробовать | try | 1
+делать | do | 1
+фотография | photo | 1
+время | time | 1
+цветения? | flowering? | 1
+пробовал! | I tried it! | 1
+это | This | 1
+здорово | Great | 1
+— | None | 1
+ловить | catch | 1
+моменты. | moments. | 1
+фотографировать | photograph | 1
+интересное? | interesting? | 1
+сделать | do | 1
+несколько | some | 1
+снимков. | pictures. | 1
+может, | Maybe, | 1
+показать | show | 1
+они | They | 1
+позже? | Later? | 1
+обязательно! | Necessarily! | 1
+интересно | Interesting | 1
+взглянуть. | take a look. | 1
+всегда | Always | 1
+хорошо | Fine | 1
+фотографируешь. | you take pictures. | 1
+спасибо! | Thank you! | 1
+чем | how | 1
+заниматься | study | 1
+последний | last | 1
+время? | time? | 1
+начать | begin | 1
+читать | read | 1
+новый | new | 1
+книгу. | book. | 1
+о | o | 1
+путешествие | journey | 1
+по | by | 1
+миру. | to the world. | 1
+очень | Very | 1
+вдохновляющая! | inspiring! | 1
+интересно! | Interesting! | 1
+хотеть | want | 1
+почитать | to read | 1
+новое. | new. | 1
+книга? | book? | 1
+"в | "V | 1
+поиск | search | 1
+приключений". | adventures". | 1
+мочь | be able | 1
+одолжить | to borrow | 1
+её, | her, | 1
+если | If | 1
+хочешь. | Want. | 1
+быть | be | 1
+бы | would | 1
+здорово! | Great! | 1
+спасибо, | Thank you, | 1
+сергей. | Sergey. | 1
+не | Not | 1
+за | for | 1
+что! | What! | 1
+давать | give | 1
+встретиться | meet | 1
+на | on | 1
+выходных, | weekend, | 1
+и | And | 1
+её | her | 1
+дам. | time. | 1
+отлично! | Great! | 1
+увидеться | see each other | 1
+субботу! | Saturday! | 1
